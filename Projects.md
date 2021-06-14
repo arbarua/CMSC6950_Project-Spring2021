@@ -16,3 +16,4 @@ Format: `- <Name> [<Project Topic>](https://github.com/<GitHubId>/CMSC6950_Proje
 - Karina Barcelos [tidynamics](https://github.com/kdabarcelos/CMSC6950_Project)
 - Behnam Farhadi [pymagicc](https://github.com/behnamfarhadi2010/CMSC6950_Project)  
 - Mohammed Asfour [PyAutoLens](https://github.com/m3asfour/CMSC6950_Project)
+- Arnab Barua [tidynamics](https://github.com/arbarua/CMSC6950_Project)
